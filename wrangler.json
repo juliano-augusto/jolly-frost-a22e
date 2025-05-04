@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "jolly-frost-a22e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "db3246c3-b542-4d43-866b-a1b19f6675b1",
+      "database_name": "tiny-sunset-5309-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
